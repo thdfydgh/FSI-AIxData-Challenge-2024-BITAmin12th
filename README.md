@@ -8,7 +8,9 @@
 │   └── others.csv
 │
 ├── 최종본_0905.ipynb
-│
+├── saved_models.zip
+├── ACTGAN_weight.pth
+│ 
 └── clf_submission/
     ├── data/
     │   ├── ACTGAN_clf_submission.csv
