@@ -7,7 +7,7 @@
 │   ├── only_ctgan.csv
 │   └── others.csv
 │
-├── 최종본_0905.ipynb
+├── final.ipynb
 ├── saved_models.zip
 ├── ACTGAN_weight.pth
 │ 
